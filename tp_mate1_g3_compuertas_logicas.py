@@ -36,4 +36,6 @@ b = 0
 
 print(f"El resultado de aplicar una operación NAND con las variables {a} y {b} es {compuerta_nand(a,b)}")
 
+
 print("Holis")
+
