@@ -84,5 +84,5 @@ print("""\nGrupo 3 - Matemática 1 TUP UTN\n
         - Emanuel López\n
         - William Nicolás Girelli\n
         - Gabriel Giannoni\n
-        - \n""")
+        - Yovino Matias Alberto\n """)
         
