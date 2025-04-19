@@ -83,6 +83,6 @@ print("""\nGrupo 3 - Matemática 1 TUP UTN\n
         - Julián Daniel Gómez\n
         - Emanuel López\n
         - William Nicolás Girelli\n
-        - \n
+        - Gabriel Giannoni\n
         - \n""")
         
