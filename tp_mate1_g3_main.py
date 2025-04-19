@@ -81,7 +81,7 @@ print("\nGracias por usar el simulador de compuertas lógicas!")
 print("""\nGrupo 3 - Matemática 1 TUP UTN\n
         Integrantes:\n
         - Julián Daniel Gómez\n
-        - \n
+        - Emanuel López
         - \n
         - \n
         - \n""")
