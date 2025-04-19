@@ -82,7 +82,7 @@ print("""\nGrupo 3 - Matemática 1 TUP UTN\n
         Integrantes:\n
         - Julián Daniel Gómez\n
         - Emanuel López\n
-        - \n
+        - Yovino Matias Alberto\n
         - \n
         - \n""")
         
